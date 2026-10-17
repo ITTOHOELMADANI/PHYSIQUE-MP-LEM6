@@ -1,0 +1,27 @@
+{
+  "dossiers": [
+    {"id": "algo",    "nom": "Algorithmes au programme des CPGE"},
+    {"id": "annales", "nom": "Annales des concours"},
+    {"id": "capnum",  "nom": "Capacités numériques"},
+    {"id": "dl",      "nom": "Devoirs libres"},
+    {"id": "dm",      "nom": "DM"},
+    {"id": "cours",   "nom": "Documents de cours MP"},
+    {"id": "ds",      "nom": "DS"},
+    {"id": "fiches",  "nom": "Fiches techniques"},
+    {"id": "interro", "nom": "Interrogations de cours"},
+    {"id": "oraux",   "nom": "Préparation oraux"},
+    {"id": "colles",  "nom": "Programmes de colles"},
+    {"id": "progs",   "nom": "Programmes MP et MPSI"},
+    {"id": "mpsi",    "nom": "Retour cours MPSI"},
+    {"id": "td",      "nom": "TD"},
+    {"id": "tp",      "nom": "TP"}
+  ],
+  "documents": [
+    {"dossier": "dm", "titre": "DM 3 – Électronique : démodulation de signaux AM", "fichier": "docs/DM3_Electronique.pdf", "taille": 302013, "date": "2026-10-09", "type": "énoncé"},
+    {"dossier": "dm", "titre": "DM 3 – Électronique : corrigé", "fichier": "docs/DM3_Electronique_Corrige.pdf", "taille": 312076, "date": "2026-10-09", "type": "corrigé"},
+    {"dossier": "dl", "titre": "DL 1 – Chimie des solutions : le cuivre en solution aqueuse", "fichier": "docs/DL1_Chimie_des_solutions.pdf", "taille": 195897, "date": "2026-10-09", "type": "énoncé"},
+    {"dossier": "dl", "titre": "DL 1 – Chimie des solutions : corrigé", "fichier": "docs/DL1_Chimie_des_solutions_Corrige.pdf", "taille": 199754, "date": "2026-10-09", "type": "corrigé"},
+    {"dossier": "td", "titre": "TD 4 – Mécanique du solide", "fichier": "docs/TD4_Mecanique_du_solide.pdf", "taille": 1015225, "date": "2026-10-09", "type": "énoncé"},
+    {"dossier": "td", "titre": "TD 4 – Mécanique du solide : corrigé", "fichier": "docs/TD4_Mecanique_du_solide_Corrige.pdf", "taille": 290798, "date": "2026-10-09", "type": "corrigé"}
+  ]
+}
